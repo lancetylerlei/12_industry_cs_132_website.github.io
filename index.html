@@ -91,7 +91,7 @@
 						<p>2. Do ratings improve with version updates over time?</p>
 						<p>3. Which app/developer is considered the best/worst?</p>
 					</header>
-					<div class="row">
+					<div class="column">
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<h3><a href="#">Null Hypothesis 1</a></h3>
@@ -143,22 +143,30 @@
 						<h2>Data Description</h2>
 					</header>
 					<div class="row">
+						<p> 
+							This dataset is a continuation of the PH FinTech Apps Google Store Reviews (2023), which was originally gathered using RAPIDAPI. In this updated version, data was collected using GoogleScraper, allowing for a more comprehensive and structured extraction of user reviews from the Google Play Store. With 789,556 unique reviews, this dataset provides a robust source for analyzing public perception, user satisfaction, and fintech app performance over time.
+						</p>
+						<br>
+						<p>
+							The dataset contains various attributes that capture key aspects of user feedback. Each review entry includes a unique review identifier (reviewId) and a timestamp (review_datime_utc) to track when the review was submitted. Additionally, user information such as author name (author_name) and author identifier (author_name_guid) is included, ensuring that repeated reviews from the same user can be analyzed while maintaining data privacy.
+						</p>
+						<br>
+						<p>
+							To assess user sentiment and engagement, the dataset records the review text (review_text), the rating (review_rating) on a scale of 1 to 5, and the number of likes (review_likes) a review has received from other users. These features allow for deeper analysis of how user feedback evolves and how others perceive the value of certain reviews.
+						</p>
+						<br> 
+						<p>
+							In terms of app-related metadata, each review is linked to a specific fintech application (application_id) and the app version (aauthor_app_version) at the time of the review. This allows researchers to evaluate whether updates lead to higher satisfaction and improved ratings over time.
+						</p>
+						<br>
+						<p>
+							The dataset serves multiple purposes, making it an essential tool for fintech developers, data analysts, and researchers. It enables sentiment analysis to track how users perceive fintech apps, trend analysis to evaluate the impact of app updates, and topic modeling to identify key pain points in user feedback. Moreover, it allows comparisons between different fintech developers, highlighting the best and worst-performing apps based on user engagement and satisfaction.
+						</p>
+						<br>
+						<p>
+							This dataset is particularly useful for longitudinal studies, as it is continuously updated to reflect real-time changes in user sentiment. By leveraging this data, fintech companies can refine their app development strategies, address user concerns more effectively, and enhance the overall digital financial experience. With its structured format and rich content, this dataset is a valuable resource for understanding the evolving landscape of fintech applications in the Philippines.
+						</p>
 						
-
-							<p>This dataset is a continuation of the PH FinTech Apps Google Store Reviews (2023), which was originally gathered using RAPIDAPI. In this updated version, data was collected using GoogleScraper, allowing for a more comprehensive and structured extraction of user reviews from the Google Play Store. With 789,556 unique reviews, this dataset provides a robust source for analyzing public perception, user satisfaction, and fintech app performance over time.
-
-The dataset contains various attributes that capture key aspects of user feedback. Each review entry includes a unique review identifier (reviewId) and a timestamp (review_datime_utc) to track when the review was submitted. Additionally, user information such as author name (author_name) and author identifier (author_name_guid) is included, ensuring that repeated reviews from the same user can be analyzed while maintaining data privacy.
-
-To assess user sentiment and engagement, the dataset records the review text (review_text), the rating (review_rating) on a scale of 1 to 5, and the number of likes (review_likes) a review has received from other users. These features allow for deeper analysis of how user feedback evolves and how others perceive the value of certain reviews.
-
-In terms of app-related metadata, each review is linked to a specific fintech application (application_id) and the app version (aauthor_app_version) at the time of the review. This allows researchers to evaluate whether updates lead to higher satisfaction and improved ratings over time.
-
-The dataset serves multiple purposes, making it an essential tool for fintech developers, data analysts, and researchers. It enables sentiment analysis to track how users perceive fintech apps, trend analysis to evaluate the impact of app updates, and topic modeling to identify key pain points in user feedback. Moreover, it allows comparisons between different fintech developers, highlighting the best and worst-performing apps based on user engagement and satisfaction.
-
-This dataset is particularly useful for longitudinal studies, as it is continuously updated to reflect real-time changes in user sentiment. By leveraging this data, fintech companies can refine their app development strategies, address user concerns more effectively, and enhance the overall digital financial experience. With its structured format and rich content, this dataset is a valuable resource for understanding the evolving landscape of fintech applications in the Philippines.
-</p>
-
-						</div>
 					</div>
 				</div>
 			</article>
