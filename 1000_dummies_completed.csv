@@ -1,0 +1,999 @@
+,This review is about...,data privacy,security features,app installation,registration,loading speed,feature accessibility,ads,maintenance,transaction speed,transaction approval,transaction legitimacy,transaction fees,transaction flexibility,customer service,user friendliness,loan interest,savings interest,leniency,user incentives
+0,maintenance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1,"customer service, scam",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+4,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,"user friendliness, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+7,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,"transaction speed, user friendliness, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+9,transcaction speed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+11,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,"transaction flexibility, user friendliness",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+15,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+18,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+19,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+20,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+23,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,"user friendliness, feature accessibility, customer service",0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+26,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+27,"user friendliness,  transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+28,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+29,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+30,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+31,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+32,"transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+33,customer service ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+34,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+37,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+38,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+39,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+40,"app installation, user friendliness",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+41,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+42,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+43,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+44,savings interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+45,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+46,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+47,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+49,"loan interest, leniency, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+50,"loan interest, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+51,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+52,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+54,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+56,"transaction fees, user friendliness, feature accessibility",0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+57,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+59,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+60,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+61,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+62,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+63,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,"app installation, security features",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+66,"data privacy, loan interest",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+67,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+68,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+69,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+71,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+73,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,"feature accessibility, transaction speed",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+75,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+76,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+77,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+80,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+81,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+82,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,maintenance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+84,"registration, customer service",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+85,"user friendliness, registration, customer service",0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+86,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+87,"loading speed, customer service",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+88,"transaction flexibility, feature accessibility",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+89,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+90,"transaction legitimacy, transaction approval",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+91,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+92,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+93,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+94,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,"user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+96,"user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+97,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+98,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+99,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+100,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+101,"security features, transaction speed",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+102,"maintenance, customer service",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+103,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+104,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+105,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,registration ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+109,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+110,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+111,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+112,"user friendliness, feature accessibility, savings interest",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+113,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+114,"registration, user friendliness, savings interest",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+115,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+116,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+117,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+118,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+119,"user friendliness, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+120,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+121,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+122,"transaction speed, transaction approval",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+123,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+124,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+127,"security features, customer service",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+128,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+129,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+130,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+131,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+133,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+136,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,"user friendliness, feature accessibility",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+138,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,ads,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+140,"transanction flexibility, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+141,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+142,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+143,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+144,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+145,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,"transaction speed, transaction fees",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+147,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+149,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+150,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,user friendly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,"transaction legitimacy, transaction speed, transaction flexibility, leniency, user friendliness, loan interest",0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,1,0
+153,"user friendliness, transaction approval",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+154,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+155,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+156,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+157,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+158,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+160,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+161,"user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+162,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+163,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+164,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+165,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,"leniency, customer service, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+167,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+169,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,"transaction legitimacy, transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+171,user friendly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,user friendly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+173,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+174,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+175,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+177,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+178,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,"transaction flexibility, transaction fee",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+180,"registration, user friendliness ",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+181,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+183,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+184,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+187,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+188,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+189,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+190,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,"user friendliness, savings interest, user incentives, feature accessibility, transaction flexibility",0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1
+192,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+195,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+196,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,"transaction legitimacy, user friendliness",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+200,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+202,"registration, loan interest, leniency, customer service",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+203,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+204,"loading speed, feature accessibility",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,"transaction speed, user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+206,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+207,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,"loan interest, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+209,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,"loan interest, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+214,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+216,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+217,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+218,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+219,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+220,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+223,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+224,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+226,"loan interest, feature accessibility",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+227,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+229,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+230,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+231,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+232,"user friendliness, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+233,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+234,"transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+235,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+236,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+237,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,"transaction fees, savings interest",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+239,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+240,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+241,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,"transaction speed, transaction approval, customer service",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+243,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,"user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+245,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+247,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+248,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+251,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+252,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+253,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,"transaction speed, loan interest, transaction fees",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+255,"customer service, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+256,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+257,user friendly,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+259,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+260,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+261,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+262,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+263,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+265,"transaction legitimacy, customer service, loan interest",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+266,"transaction flexibility, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+267,"user friendliness, loading speed",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+268,"transaction flexibility, customer service",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+269,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,"transaction speed, transaction fees",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+272,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+273,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+274,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+276,"app installation, feature accessibility, transaction flexibility, loading speed",0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+277,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+278,"loading speed, transaction speed, transaction approval",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+279,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+280,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+283,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+284,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+286,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+287,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+288,"registration, customer service",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+289,"user friendliness, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+290,"data privacy, transaction approval",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+291,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+292,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+293,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+294,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+295,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+296,"leniency, data privacy",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+297,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+298,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+299,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+300,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+301,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+302,"transaction fees, leniency",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+303,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+304,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,"transaction, savings interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+306,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+307,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+308,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+309,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+310,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+311,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+312,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+313,"transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+314,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,"transaction speed, transaction flexibility",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+316,"transaction flexibility, transaction fees",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+317,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+318,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+319,security featues,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+321,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,"transaction legitimacy, transaction approval",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+323,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+324,"security features, loading speed",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,"transaction speed, security features",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+326,"user friendly, savings interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+327,"loan interest, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+328,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,"customer service, security features",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+330,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+331,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+332,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+333,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+334,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+335,"loan interest, transaction fees",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+336,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+337,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+338,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+339,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+340,"transaction speed, user incentives, customer service",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+341,"user friendliness, loading speed",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+342,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+343,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+344,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+345,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+346,"transaction approval, transaction flexibility, security features, customer service",0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0
+347,"transaction legitimacy, customer service, loan interest",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+348,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+349,"transaction legitimacy, customer service",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+350,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,transaction approval ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+352,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+353,"transaction legitimacy, user incentives, ",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+354,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+355,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,"leniency, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+357,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+358,"leniency, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+359,"customer service, data privacy",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+360,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,"transaction legitimacy, security features, loading speed",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+362,"transaction speed, user friendliness",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+363,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+364,"transaction speed, registration",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+365,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+366,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+367,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+368,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+369,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+370,"user friendliness, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+371,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+372,"feature accesibility, user friendliness",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+373,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+374,"user incentives, loan interest, transaction speed, user friendliness",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1
+375,"loading speed, transaction fees, customer service",0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+376,"loading speed, feature accessibility",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,"registration, customer service",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+378,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+379,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+380,"loading speed, maintenance",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+381,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+382,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+383,maintenance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+384,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+386,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+387,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+388,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+389,"transaction speed, transaction flexibility",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+390,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+391,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+392,"data privacy, leniency",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+393,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+394,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,"transaction flexibility, user friendliness",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+396,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+398,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+399,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,"transaction speed, transaction flexibility",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+402,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+404,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+406,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+407,"registration, transaction flexibility",0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+408,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+409,"loading speed, user friendliness, feature accessibility",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+410,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+411,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+412,"user friendliness, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+413,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+414,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,"user friendly, ads, transaction fees, user incentives",0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+416,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+417,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+418,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+419,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+421,"user friendliness, user incentive",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+422,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+423,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+424,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+425,"loading speed, security features",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+428,"user friendliness, loading speed",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+429,"user friendliness, registration, loan interest",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+430,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+431,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+432,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+433,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+434,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+436,"transaction legitimacy, leniency",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+437,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+438,"customer service, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+439,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+440,"transaction speed, transaction approval ",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+441,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,"registration, loading speed",0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,"registration, customer service",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+444,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+445,"app installation, security features",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+447,"loading speed, transaction speed ",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+448,"security features, transaction flexibility",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+449,"transaction speed, user incentives ",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+450,"transaction speed, transaction legitimacy",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+451,"customer service, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+452,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+455,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+456,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+457,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+458,"registration, security features, transaction speed",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+459,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+460,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+461,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+462,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+463,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+464,"user friendliness, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+465,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+466,"user friendly, savings interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+467,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+468,"transaction speed, transaction legitimacy",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+469,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+470,"transaction legitimacy, user friendliness",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+471,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+472,"maintenance, feature accessibility",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+473,"leniency, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+474,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+475,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+476,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+477,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+478,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+479,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+480,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+481,"security features, loading speed",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,maintenance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+485,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,"transaction legitimacy, transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+487,"user friendliness, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+488,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+489,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+492,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+493,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+494,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+495,app installment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,"transaction speed, security features",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+497,"customer service, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+498,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,"user friendliness, transaction approval",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+500,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+502,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+503,"user friendliness, feature accessibility, customer service",0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+504,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+506,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+509,"loading speed, transaction speed, feature accessibility",0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+510,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+511,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,"leniency, transaction approval",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+513,"transaction approval, transaction fees",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+514,"user friendliness, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+515,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+517,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+518,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+519,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+521,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+522,"maintenance, transaction legitimacy",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+523,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,"loading speed, user friendliness",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+525,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+527,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+528,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+529,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+532,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+533,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+534,"feature accessibility, transaction flexibility",0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+535,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,"leniency, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+537,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+539,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+540,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+541,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+542,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+543,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+544,"loan interest, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+545,"data privacy, transaction approval",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+546,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+547,"transaction flexibility, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+548,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+549,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+550,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+551,"user friendliness, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+552,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+555,"feature accessibility, customer service",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+556,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+558,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+559,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+561,maintenance,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+562,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+563,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+564,"transaction approval, leniency",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+565,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+568,"feature accessibility, customer service",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+569,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+571,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+572,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+573,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+574,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+575,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+576,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+577,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+578,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+579,"loading speed, feature accessibility",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+581,"user friendliness, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+582,"registration, transaction fees",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+583,"transaction legitimacy, loan interest, leniency",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0
+584,"loan interest, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+585,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+587,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+589,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+590,"leniency, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+591,"transaction approval, transaction fees",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+592,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+593,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+594,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+595,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+596,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+597,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+598,"registration, feature accessibility, customer service",0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+599,"feature accessibility, transaction approval",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+600,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+601,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+602,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+603,"registration, feature accessibility",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+605,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+606,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+607,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+608,"customer service, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+609,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+611,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+612,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+613,"transaction approval, user friendliness",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+614,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+615,"user friendliness, feature accessibility ",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+616,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+618,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+619,"transaction approval, transaction speed",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+620,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+621,"user friendliness, transaction approval",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+622,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+623,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+624,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+625,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+626,"transaction fees, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+627,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+628,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+630,"feature accessibility, user friendliness",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+631,feature accesibility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+633,"transaction approval, data privacy",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+634,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+635,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+637,"loan interest, transaction approval, user friendliness",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+638,"user friendliness, transaction fees",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+639,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+640,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+641,"transaction approval, data privacy",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+642,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+644,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+645,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+647,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+648,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+650,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+651,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+653,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+654,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+655,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+656,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+658,"user friendliness, transaction approval",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+659,"transaction speed, feature accessibility",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+660,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+661,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,feature accesibility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,"leniency, transaction approval",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+665,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+666,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+667,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+668,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+669,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+670,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+671,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+672,user frinedliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,"transaction fees, leniency",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+674,"user friendliness, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+675,"transaction approval, customer service, loan interest",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+676,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,"leniency, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+679,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+680,"loading speed, transaction speed",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+681,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+682,"feature accessibility, customer service",0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+683,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+684,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+685,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+687,"feature accessibility, loading speed",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+689,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+690,"customer service, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+691,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+692,"loan interest, transaction fees",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+693,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+694,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+695,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+696,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+697,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+699,"transaction speed, leniency",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+700,"security features, feature accessibility",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+702,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,"transaction flexibility, transaction fees, transaction speed",0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+704,"transaction flexibility, transaction fees ",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+705,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+706,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+707,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,"user friendliness, registration, product offered",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+709,security features ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+711,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+712,"transaction fees, loan interest",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+713,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+714,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+715,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+716,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+717,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+718,"loan interest, feature accessibility",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+719,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+720,"registration, transaction fees",0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+721,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+722,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+723,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+724,"user friendliness, loading speed",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+725,"security, loading speed",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+727,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+728,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+729,"transaction speed, transaction fees, leniency",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+730,"user friendliness, transaction fees",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+731,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+732,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+733,"loan interest, transaction approval, user friendliness",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+734,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+735,"transaction speed, user friendliness",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+736,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+737,"loan interest, leniency, data privacy",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+738,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+739,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+740,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+741,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,"loading speed, ",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,"leniency, user incentives",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+744,"transaction approval, ",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+745,"transaction approval, transaction speed, transaction fees",0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+746,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+748,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+749,"app installation, user friendliness",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+750,"transaction approval, loan interest, transaction fees",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+751,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+752,"user friendliness, feature accessibility ",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+753,"transaction legitimacy, customer service",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+754,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+755,security featuer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+758,"leniency, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+759,"customer service, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+760,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+763,"loading speed, security features ",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+764,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+765,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+766,"transaction fee, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+767,"transaction approval, transaction speed",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+768,"user friendliness, feature accessibility ",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+769,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,"loading speed, security features, customer service",0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+771,"transaction approval, transaction speed, customer service",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+772,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+773,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+774,"transaction approval, loan interest",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+775,"transaction legitimacy, loan interest ",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+776,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+777,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+778,"transaction approval, loading speed",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+779,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+780,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+781,"transaction speed, loan interest, transaction flexibility",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+782,"transaction fee, savings interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+783,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+784,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+785,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+787,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+788,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+789,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+790,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+791,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+792,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+793,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,"transaction legitimacy, transaction speed",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+795,"user frinedliness, registration",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+796,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+797,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+799,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+800,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+801,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+802,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+803,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+804,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+805,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+806,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+807,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+808,"loading speed, customer service",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+809,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+810,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+811,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+812,"loan interest, user friendliness",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+813,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+814,"transaction legitimacy, loan interest ",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+815,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+816,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+817,data privacy,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+818,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+819,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+820,"transaction flexibility, transaction fees",0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+821,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+822,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+823,"transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+824,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+825,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+826,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+827,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+828,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+829,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+830,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+831,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+832,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+833,"security features, customer service",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+834,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+835,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+836,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+837,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+838,"transaction legitimacy, leniency",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+839,feature flexibility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+840,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+841,"registration, user incentives",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+842,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+843,transaction fees,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+844,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+845,"data privacy, feature accessibility, transaction flexibility",1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+846,"transaction approval, transaction speed",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+847,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+848,"leniency, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+849,"data privacy, transaction approval",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+850,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+851,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+852,user incentives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+853,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+854,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+855,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+856,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+857,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+858,"transaction legitimacy, customer service",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+859,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+860,"customer service, transaction fees, leniency, user incentives",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1
+861,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+862,"customer service, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+863,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+864,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+865,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+866,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+867,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+868,"leniency, loan interest",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+869,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+870,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+871,"loan interest, loading speed",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+872,"customer service, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+873,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+874,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+875,"loading speed, feature accessibility",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+876,cutomer service,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+877,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+878,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+879,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+880,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+881,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+882,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+883,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+884,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+886,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+887,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+888,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+891,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+892,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+893,loan interest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+894,"loan interest, transaction approval ",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+895,user interface,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+896,"security features, savings interest",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+897,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+898,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+899,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+900,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+901,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+902,security feature,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+903,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+904,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+905,"registration, data privacy, feature accessibility",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+907,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+908,"user friendliness, savings interest, ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+909,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+910,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+911,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+912,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+913,transaction approval,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+914,"feature accessibility, registration",0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+915,feature accessibility ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,registration,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+917,"transaction approval, leniency",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+918,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+919,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+920,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+921,leniency,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+922,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,"featuer accessibility, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+924,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+925,app installation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+926,"featuer accessibility, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+927,"loading speed, transaction legitimacy",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+928,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+929,"transaction speed, user friendliness",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+930,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+931,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+932,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+933,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+934,"customer service, user friendliness",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+935,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+936,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+937,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+938,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+939,"app installation, feature accessibility",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+940,loading speed,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+941,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+942,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+943,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+944,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+945,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+946,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+947,customer service,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+948,loading speed ,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+949,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+950,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+951,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+952,loan interest ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+953,"savings interest, user friendliness, transaction flexibility, user incentives",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+954,"security features, transaction speed",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+955,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+956,"customer service, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+957,"user incentives, transaction legitimacy, transaction flexibility",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+958,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+959,registration ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+960,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+961,"transaction speed, loan interest",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+962,"user friendliness, loan interest, transaction speed",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+963,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+964,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+965,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+966,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+967,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+968,"registration, transaction speed",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+969,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+970,user friendliness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+971,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+972,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+973,feature accessibility,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+974,user friendliness ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+975,"transaction legitimacy, transaction flexibility",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+976,transaction flexibility,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+977,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+978,"loan interest, data privacy",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+979,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+980,customer service ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+981,"security features, transaction speed",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+982,"user interface, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+983,"loading speed, maintenance",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+984,"transaction speed, customer service",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+985,transaction legitimacy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+986,"transaction legitimacy, transaction speed",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+987,"user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+988,"leniency, customer service",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+989,"security features, user friendliness, transaction speed",0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+990,security features,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+991,"customer service, transaction legitimacy",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+992,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+993,"transaction speed, feature accessibility",0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+994,"transaction speed, user friendliness",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+995,"user friendliness, transaction flexibility",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+996,transaction speed,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+997,"loan interest, leniency",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
