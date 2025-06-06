@@ -146,13 +146,16 @@
                     <article class="box style2">
                         <a href="#" class="image featured"><img src="path/to/image3.jpg" alt="Data Sampling and Filtering" /></a>
                         <h3><a href="#">Data Sampling and Filtering</a></h3>
-                        <p>We used <strong>XGBoost</strong> and <strong>SHAP</strong> to determine which review categories most significantly influence Google Play Store ratings for fintech apps. These tools were selected for their scalability and interpretability, making them ideal for large-scale, explainable analysis.</p>
-                        <p>XGBoost handles non-linear relationships well and outperforms traditional decision trees on large datasets. SHAP (SHapley Additive exPlanations) complements it by identifying which features push predictions higher or lower—helping us understand what truly drives positive and negative app reviews.</p>
-                        <p>Our goal was to uncover which app features users value most so developers can prioritize and refine them.</p>
-
- 
-
-
+                        <p>To ensure data accuracy and usability, preprocessing involved several key steps:</p>
+                        <ul>
+                            <li><strong>Data Cleaning:</strong> Removed duplicates, standardized fields, and formatted timestamps.</li>
+                            <li><strong>Text Preparation:</strong> Lowercased text, removed stopwords, stripped special characters, and flagged spam reviews.</li>
+                            <li><strong>Feature Engineering:</strong> Generated sentiment scores, review length bins, keyword tags, and app version mapping.</li>
+                            <li><strong>Outlier Detection:</strong> Identified extreme ratings and unusual like counts.</li>
+                            <li><strong>Time-Series Formatting:</strong> Converted UTC timestamps to PHT for local trend analysis.</li>
+                        </ul>
+                        <p>This robust preprocessing ensured a high-quality dataset, ready for machine learning analysis.</p>
+                    </article>
                 </div>
             </div>
             <footer>
