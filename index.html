@@ -169,11 +169,38 @@
     <article id="results" class="wrapper style3">
         <div class="container">
             <header>
-                <h2>Let's talk about our data science methodology.</h2>
-                <p>This section outlines how we cleaned our data and built interpretable models to uncover what matters most to fintech users.</p>
+                <h2>Let's talk about our data science results.</h2>
+                <p>This section outlines how we analyzed data and built interpretable models to uncover what matters most to fintech users.</p>
             </header>
             <div class="row">
+                
+                <!-- Exploratory Data Analysis -->
+                <div class="col-12 col-6-medium col-12-small">
+                    <article class="box style2">
+                        <a href="#" class="image featured"><img src="path/to/image3.jpg" alt="Exploratory Data Analysis" /></a>
+                        <h3><a href="#">Exploratory Data Analysis</a></h3>
+                        <p>In exploratory data analysis, we first manually classified the reviews into 19 categories. (See Google Colab) </p>
+                        <p>We then used <strong>Logistic Regression</strong> to determine which review categories most significantly influence Google Play Store ratings for fintech apps. </p>
+                        <p>Our goal was to uncover which app features strongly affects rating (1,5) or weakly affects rating (2,3,4) so developers can prioritize and refine them.</p>
 
+                        <!-- Logistic Regression -->
+                        <div class="row">
+                            <div class="col-18">
+                                <img src="LR_plot1.png" alt="h" class="image fit" />
+                            </div>
+                        </div>
+
+                        <!-- Discussion -->
+                        <h4>Discussion</h4>
+                        <p>According to the SHAP bar and beeswarm plots, <strong>user friendliness</strong> and <strong>transaction speed</strong> are the two most significant features impacting review scores. User friendliness refers to how intuitive, clean, and reliable the interface is—streamlined processes, clear UI, and dependable performance. Transaction speed measures how fast an app completes financial actions.</p>
+                        <p>User friendliness had the <strong>lowest mean SHAP</strong> value at <code>-0.052496</code> but the <strong>highest mean absolute SHAP</strong> value of <code>0.634410</code>, meaning it strongly affects ratings and is often a pain point. This suggests many apps underperform in usability, leading to lower reviews.</p>
+                        <p>Transaction speed, with a positive mean SHAP of <code>0.017774</code>, indicates that users appreciate apps that "just work" and perform actions quickly. This feature positively correlates with higher ratings.</p>
+                        <p>Another insight: <strong>loading speed</strong> (mean absolute SHAP = <code>0.065434</code>, mean SHAP = <code>-0.025441</code>) is the seventh most important feature but contributes to lower ratings. It's closely tied to user friendliness and confirms that app responsiveness remains a common frustration.</p>
+
+
+                    </article>
+                </div>
+                
                 <!-- Machine Learning -->
                 <div class="col-12 col-6-medium col-12-small">
                     <article class="box style2">
