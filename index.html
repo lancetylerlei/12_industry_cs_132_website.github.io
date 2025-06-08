@@ -180,9 +180,9 @@
                     <article class="box style2">
                         <a href="#" class="image featured"><img src="path/to/image3.jpg" alt="Exploratory Data Analysis" /></a>
                         <h3><a href="#">Exploratory Data Analysis</a></h3>
-                        <p>We used <strong>XGBoost</strong> and <strong>SHAP</strong> to determine which review categories most significantly influence Google Play Store ratings for fintech apps. These tools were selected for their scalability and interpretability, making them ideal for large-scale, explainable analysis.</p>
-                        <p>XGBoost handles non-linear relationships well and outperforms traditional decision trees on large datasets. SHAP (SHapley Additive exPlanations) complements it by identifying which features push predictions higher or lower—helping us understand what truly drives positive and negative app reviews.</p>
-                        <p>Our goal was to uncover which app features users value most so developers can prioritize and refine them.</p>
+                        <p>We used <strong>dummy variables</strong> to count number of reviews containing each factor to determine the most common review factors for fintech apps. </p>
+                        <p>Our goal was to uncover the most common app features so that developers can prioritize and refine them.</p>
+                        <p>We normalized the data distribution of factors given review categories are nominal data</p>
 
                         <!-- EDA Images -->
                         <div class="row">
@@ -193,16 +193,8 @@
 
                         <!-- Discussion -->
                         <h4>Discussion</h4>
-                        <p>According to the SHAP bar and beeswarm plots, <strong>user friendliness</strong> and <strong>transaction speed</strong> are the two most significant features impacting review scores. User friendliness refers to how intuitive, clean, and reliable the interface is—streamlined processes, clear UI, and dependable performance. Transaction speed measures how fast an app completes financial actions.</p>
-                        <p>User friendliness had the <strong>lowest mean SHAP</strong> value at <code>-0.052496</code> but the <strong>highest mean absolute SHAP</strong> value of <code>0.634410</code>, meaning it strongly affects ratings and is often a pain point. This suggests many apps underperform in usability, leading to lower reviews.</p>
-                        <p>Transaction speed, with a positive mean SHAP of <code>0.017774</code>, indicates that users appreciate apps that "just work" and perform actions quickly. This feature positively correlates with higher ratings.</p>
-                        <p>Another insight: <strong>loading speed</strong> (mean absolute SHAP = <code>0.065434</code>, mean SHAP = <code>-0.025441</code>) is the seventh most important feature but contributes to lower ratings. It's closely tied to user friendliness and confirms that app responsiveness remains a common frustration.</p>
-
-                        <!-- Conclusion -->
-                        <h4>Conclusion</h4>
-                        <p>In conclusion, <strong>user friendliness</strong> and <strong>transaction speed</strong> are the top drivers of fintech app satisfaction. However, many apps struggle with delivering a seamless user experience—highlighting a clear area for improvement.</p>
-                        <p>App developers are encouraged to focus on streamlining UI/UX, improving responsiveness, and reducing loading times. Investing in usability and performance will not only boost ratings but build long-term trust and engagement with users.</p>
-                        <p>Future research should investigate subcomponents of these key factors, such as specific UI elements, task flows, or common bugs, to pinpoint more targeted recommendations for development teams.</p>
+                        <p>This plot highlights the most common factors that reviews consider to be important. Based on the needs of the majority, banks must prioritize user-friendliness, which refers to how intuitive, clean, and reliable the interface is—streamlined processes, clear UI, and dependable performance. Next is transaction speed, which measures how fast an app completes financial actions such as loans,withdrawal, deposit, transfer of cash, and real time transaction updates. Similarly, feature accessibility to the transaction features above, as well as features to contact customer service are also important. On the non-technical side, banks must maintain transaction legitimacy by adhering to the agreements made between their clients. Lastly, customer service must show patience and understanding to the clients’ side, particularly on leniency with loans that can be paid in small amounts over time, but also in other technical issues such as loading speed and bugs. </p>
+    
                     </article>
                 </div>
             </div>
@@ -234,7 +226,7 @@
 
                         <!-- Discussion -->
                         <h4>Discussion</h4>
-                        <p>According to the SHAP bar and beeswarm plots, <strong>user friendliness</strong> and <strong>transaction speed</strong> are the two most significant features impacting review scores. User friendliness refers to how intuitive, clean, and reliable the interface is—streamlined processes, clear UI, and dependable performance. Transaction speed measures how fast an app completes financial actions.</p>
+                        <p>According to the SHAP bar and beeswarm plots, <strong>user friendliness</strong> and <strong>transaction speed</strong> are the two most significant features impacting review scores.</p>
                         <p>User friendliness had the <strong>lowest mean SHAP</strong> value at <code>-0.052496</code> but the <strong>highest mean absolute SHAP</strong> value of <code>0.634410</code>, meaning it strongly affects ratings and is often a pain point. This suggests many apps underperform in usability, leading to lower reviews.</p>
                         <p>Transaction speed, with a positive mean SHAP of <code>0.017774</code>, indicates that users appreciate apps that "just work" and perform actions quickly. This feature positively correlates with higher ratings.</p>
                         <p>Another insight: <strong>loading speed</strong> (mean absolute SHAP = <code>0.065434</code>, mean SHAP = <code>-0.025441</code>) is the seventh most important feature but contributes to lower ratings. It's closely tied to user friendliness and confirms that app responsiveness remains a common frustration.</p>
